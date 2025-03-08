@@ -1,1 +1,13 @@
-
+# JailBreak
+- [2025/03]**[SurrogatePrompt: Bypassing the Safety Filter of Text-to-Image Models via Substitution](https://dl.acm.org/doi/abs/10.1145/3658644.3690346)** ![CCS 24](https://img.shields.io/badge/CCS%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[SneakyPrompt: Jailbreaking Text-to-image Generative Models](https://ieeexplore.ieee.org/abstract/document/10646735)** ![SP 24](https://img.shields.io/badge/SP%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[HTS-Attack: Heuristic Token Search for Jailbreaking Text-to-Image Models](https://arxiv.org/abs/2502.13175)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Multimodal Pragmatic Jailbreak on Text-to-image Models](https://arxiv.org/abs/2409.19149)** ![arXiv](https://img.shields.io/badge/arXiv-blue)  ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Jailbreaking Text-to-Image Models with LLM-Based Agents](https://arxiv.org/abs/2408.00523)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models](https://arxiv.org/abs/2404.02928)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models](https://arxiv.org/abs/2411.16769)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step](https://arxiv.org/abs/2410.03869)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Automatic Jailbreaking of the Text-to-Image Generative AI Systems](https://arxiv.org/abs/2405.16567)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Antelope: Potent and Concealed Jailbreak Attack Strategy](https://arxiv.org/abs/2412.08156)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[AEIOU: A Unified Defense Framework against NSFW Prompts in Text-to-Image Models](https://arxiv.org/abs/2412.18123)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[RING-A-BELL! HOW RELIABLE ARE CONCEPT REMOVAL METHODS FOR DIFFUSION MODELS](https://arxiv.org/abs/2310.10012)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
