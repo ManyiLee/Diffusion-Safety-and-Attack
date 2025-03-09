@@ -36,7 +36,7 @@ Inclusion :email:: Welcome to recommend resources to us via sending email(string
     - B. Security (0)
         - [B0. General](Security/General.md) (0)
         - [B1. Adversarial Examples](Security/Adversarial_examples.md) (0)
-        - [B2. Poison & Backdoor](Security/Poison_&_Backdoor.md) (0)
+        - [B2. Poison & Backdoor](Security/Poison_&_backdoor.md) (0)
         - [B3. System](Security/System.md) (0)
     - C. Privacy (12)
         - [C0. General](Privacy/General.md) (0)
