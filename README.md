@@ -31,7 +31,7 @@ Inclusion :email:: Welcome to recommend resources to us via sending email(string
         - [A4. Ethics](Safety/Ethics.md) (0)
         - [A5. Fairness](Safety/Fairness.md) (0)
         - [A6. Hallucination](Safety/Hallucination.md) (0)
-        - [A7. Prompt Injection](Safety/Prompt_injection.md) (0)
+        - [A7. Prompt Injection](Safety/Prompt injection.md) (0)
         - [A8. Toxicity](Safety/Toxicity.md) (0)
     - B. Security (0)
         - [B0. General](Security/General.md) (0)
