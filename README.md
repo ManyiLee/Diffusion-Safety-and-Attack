@@ -1,53 +1,31 @@
-# Diffusion-Safety-and-Attack
-# Awesome-LM-SSP
+# Diffusion-Safety-and-Attack 
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Page Views](https://badges.toozhao.com/badges/01HMRJE3211AJ2QD2X9AKTQG67/blue.svg)](.)
-[![Stars](https://img.shields.io/github/stars/ThuCCSLab/Awesome-LM-SSP)](.)
-
-[<img src="figure/title_new.png" alt="Awesome-LM-SSP" width="1000" height="auto" class="center">](.)
+![Repository](https://img.shields.io/badge/Advancement-DSA-red)
+![Stars](https://img.shields.io/github/stars/ManyiLee/Diffusion-Safety-and-Attack)
 
 ## Introduction 
-The resources related to the trustworthiness of large models (LMs) across multiple dimensions (e.g., safety, security, and privacy),                  with a special focus on multi-modal LMs (e.g., vision-language models and diffusion models). 
+Thanks to [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP), this repository is built based on part of their collections and progressively include our recent collected resources. In this repositorty, we only focus on resources related to the trustworthiness of image generation model, specifically diffusion models (DMs) across multiple dimensions (e.g., safety, security, and privacy).
 
-- This repo is in progress :seedling: (manually collected).
+- This repo is in progress :point_right: (manually collected).
 - Badges: 
+    - Paper ![arXiv](https://img.shields.io/badge/arXiv-blue): Blue badges represente where publish this paper.
+    - Code ![Code](https://img.shields.io/badge/Code-violet): Violet badge representes if papers have released their code. We recomend you use [Paper with Code](https://paperswithcode.com/) to search open-source repository of papers.
+    - Pretrained weight ![Pretrain weight](https://img.shields.io/badge/Pretrain%20weight-important): Important bandage representes if papers have released pretrained weight used in thier experiments
 
-    - Model:
-        - ![LLM](https://img.shields.io/badge/LLM_(Large_Language_Model)-589cf4)
-        - ![VLM](https://img.shields.io/badge/VLM_(Vision_Language_Model)-c7688b) 
-        - ![SLM](https://img.shields.io/badge/SLM_(Speech_Language_Model)-39c5bb) 
-        - ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+Inclusion :email:: Welcome to recommend resources to us via sending email(string1313@qq.com) or opening issues with the following format: 
 
-    - Comment: ![Benchmark](https://img.shields.io/badge/Benchmark-87b800) ![New_dataset](https://img.shields.io/badge/New_dataset-87b800) ![Agent](https://img.shields.io/badge/Agent-87b800)                 ![CodeGen](https://img.shields.io/badge/CodeGen-87b800) ![Defense](https://img.shields.io/badge/Defense-87b800) ![RAG](https://img.shields.io/badge/RAG-87b800) ![Chinese](https://img.shields.io/badge/Chinese-87b800) ...
-
-   - Venue: ![conference](https://img.shields.io/badge/conference-f1b800) ![blog](https://img.shields.io/badge/blog-f1b800) ![OpenAI](https://img.shields.io/badge/OpenAI-f1b800)  ![Meta AI](https://img.shields.io/badge/Meta_AI-f1b800) ...
-
-- :sunflower: Welcome to recommend resources to us via pulling requests or opening issues with the following format: 
-
-| Title | Link  | Code |   Venue |  Classification |  Model | Comment | 
-| ---- |---- |---- |---- |---- |----|----| 
-| aa |  arxiv | github  | bb'23    |  A1. Jailbreak | LLM  | Agent | 
+| Paper Title | Publish | Paper Link  | Code link | Pretrained weight link |Classification | Further Comments | 
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| ABCDE | CVPR 25 | https:xxx | https:xxx  |  https:xxx | Safety/Jailbreak | Benchmark| 
 
 ## News
-- [2025.02.17] We collected `12` related papers from [NDSS'25](https://www.ndss-symposium.org/ndss2025/accepted-papers/)!
-- [2024.08.17] We collected `34` related papers from [ACL'24](https://2024.aclweb.org/)!
-- [2024.05.13] We collected `7` related papers from [S&P'24](https://www.computer.org/csdl/proceedings/sp/2024/1RjE8VKKk1y)!
-- [2024.04.27] We adjusted the categories.
-- [2024.01.20] We collected `3` related papers from [NDSS'24](https://www.ndss-symposium.org/ndss2024/accepted-papers/)!
-- [2024.01.17] We collected `108` related papers from [ICLR'24](https://openreview.net/group?id=ICLR.cc/2024/Conference)!
-- [2024.01.09] 🚀 LM-SSP is released!
+- [2025.03.09] :boom: DSA is released!
 
 ## Collections
-- [Book](collection/book.md) (3)
-- [Competition](collection/competition.md) (5)
-- [Leaderboard](collection/leaderboard.md) (3)
-- [Toolkit](collection/toolkit.md) (10)
-- [Survey](collection/survey.md) (35)
 - Paper (1463)
     - A. Safety (805)
-        - [A0. General](collection/paper/safety/general.md) (22)
-        - [A1. Jailbreak](collection/paper/safety/jailbreak.md) (340)
+        - [A0. General](Safety/General.md) (22)
+        - [A1. Jailbreak](safety/jailbreak.md) (340)
         - [A2. Alignment](collection/paper/safety/alignment.md) (88)
         - [A3. Deepfake](collection/paper/safety/deepfake.md) (64)
         - [A4. Ethics](collection/paper/safety/ethics.md) (5)
