@@ -22,7 +22,7 @@ Inclusion :email:: Welcome to recommend resources to us via sending email(string
 - [2025.03.09] :boom: DSA is released!
 
 ## Collections
-- Paper (1463)
+- Paper (24)
     - A. Safety (12)
         - [A0. General](Safety/General.md) (0)
         - [A1. Jailbreak](Safety/JailBreak.md) (12)
