@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/ManyiLee/Diffusion-Safety-and-Attack)
 
 ## Introduction 
-Thanks to [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP), this repository is built based on part of their collections and progressively include our recent collected resources. In this repositorty, we only focus on resources related to the trustworthiness of image generation model, specifically diffusion models (DMs) across multiple dimensions (e.g., safety, security, and privacy).
+Thanks to [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP), this repository has been constructed utilizing a portion of their collections and progressively incorporates our recently gathered resources. In this repository, we solely focus on resources pertaining to the trustworthiness of image generation models, particularly diffusion models (DMs), across multiple dimensions such as safety, security, and privacy.
 
 - This repo is in progress :point_right: (manually collected).
 - Badges: 
