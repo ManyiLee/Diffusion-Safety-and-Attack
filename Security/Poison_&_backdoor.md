@@ -1,1 +1,18 @@
+# Posion & backdoor
+- [2025/03]**[Watch the Watcher! Backdoor Attacks on Security-Enhancing Diffusion Models](https://arxiv.org/abs/2406.09669)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Understanding Implosion in Text-to-Image Generative Models](https://dl.acm.org/doi/abs/10.1145/3658644.3690205)** ![CCS 24](https://img.shields.io/badge/CCS%2024-blue)
+- [2025/03]**[UIBDiffusion: Universal Imperceptible Backdoor Attack for Diffusion Models](https://arxiv.org/abs/2412.11441)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[UFID: A Unified Framework for Black-box Input-level Backdoor Detection on Diffusion Models](https://arxiv.org/abs/2404.01101)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors](https://arxiv.org/abs/2409.05294)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/ICCV2023/html/Struppek_Rickrolling_the_Artist_Injecting_Backdoors_into_Text_Encoders_for_Text-to-Image_ICCV_2023_paper.html)** ![ICCV 23](https://img.shields.io/badge/ICCV%2023-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers](https://arxiv.org/abs/2412.15503)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Leveraging Diffusion-Based Image Variations for Robust Training on Poisoned Data](https://arxiv.org/abs/2310.06372)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Invisible Backdoor Attacks on Diffusion Models](https://arxiv.org/abs/2406.00816)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Generating Potent Poisons and Backdoors from Scratch with Guided Diffusion](https://arxiv.org/abs/2403.16365)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[EvilEdit: Backdooring Text-to-Image Diffusion Models in One Second](https://dl.acm.org/doi/abs/10.1145/3664647.3680689)** ![MM 24](https://img.shields.io/badge/MM%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Diffusion Denoising as a Certified Defense against Clean-label Poisoning](https://arxiv.org/abs/2403.11981)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Diff-Cleanse: Identifying and Mitigating Backdoor Attacks in Diffusion Models](https://arxiv.org/abs/2407.21316)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Combinational Backdoor Attack against Customized Text-to-Image Models](https://arxiv.org/abs/2411.12389)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Backdooring Bias into Text-to-Image Models](https://arxiv.org/abs/2406.15213)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[BackdoorDM: A Comprehensive Benchmark for Backdoor Learning in Diffusion Model](https://github.com/linweiii/backdoordm)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 
