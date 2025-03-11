@@ -1,2 +1,9 @@
-# Unlearning
-- [2025/03]**[Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention](https://link.springer.com/chapter/10.1007/978-3-031-72980-5_20)** ![ECCV 24](https://img.shields.io/badge/ECCV%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+# Membership inference attacks
+- [2025/03]**[Black-box Membership Inference Attacks against Fine-tuned Diffusion Models](https://arxiv.org/abs/2312.08207)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Class Attribute Inference Attacks: Inferring Sensitive Class Information by Diffusion-Based Attribute Manipulations](https://arxiv.org/abs/2303.09289)**  ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization](https://arxiv.org/abs/2305.18355)** ![ICLR 24](https://img.shields.io/badge/ICLR%2024-blue) ![Code](https://img.shields.io/badge/Code-violet) ![Pretrain weight](https://img.shields.io/badge/Pretrain%20weight-important)
+- [2025/03]**[Identity-Focused Inference and Extraction Attacks on Diffusion Models](https://arxiv.org/abs/2410.10177)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Membership Inference Attacks Against Text-to-image Generation Models](https://arxiv.org/abs/2210.00968)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy](https://proceedings.neurips.cc/paper_files/paper/2024/hash/874411a224a1934b80d499068384808b-Abstract-Conference.html)** ![NeurlPS 24](https://img.shields.io/badge/NeuraIPS%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Towards Black-Box Membership Inference Attack for Diffusion Models](https://arxiv.org/abs/2405.20771)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[White-box Membership Inference Attacks against Diffusion Models](https://arxiv.org/abs/2308.06405)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
