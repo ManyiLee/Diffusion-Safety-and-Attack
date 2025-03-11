@@ -1,2 +1,8 @@
-# Unlearning
-- [2025/03]**[Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention](https://link.springer.com/chapter/10.1007/978-3-031-72980-5_20)** ![ECCV 24](https://img.shields.io/badge/ECCV%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+# Data reconstruction
+- [2025/03]**[Prompt Stealing Attacks Against Text-to-Image Generation Models](https://www.usenix.org/conference/usenixsecurity24/presentation/shen-xinyue)** ![Usenix Security 24](https://img.shields.io/badge/Usenix%20Security%2024-blue) ![Code](https://img.shields.io/badge/Code-violet) ![Pretrain weight](https://img.shields.io/badge/Pretrain%20weight-important)
+- [2025/03]**[Is Diffusion Model Safe? Severe Data Leakage via Gradient-Guided Diffusion Model](https://arxiv.org/abs/2406.09484)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[An Inversion-based Measure of Memorization for Diffusion Models](https://arxiv.org/abs/2405.05846)** ![arXiv](https://img.shields.io/badge/arXiv-blue)  ![Code](https://img.shields.io/badge/Code-violet) ![Pretrain weight](https://img.shields.io/badge/Pretrain%20weight-important)
+- [2025/03]**[Intriguing Properties of Data Attribution on Diffusion Models](https://arxiv.org/abs/2311.00500)** ![ICLR 24](https://img.shields.io/badge/ICLR%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Extracting Training Data from Unconditional Diffusion Models](https://arxiv.org/abs/2406.12752)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Extracting Training Data from Diffusion Models](https://www.usenix.org/conference/usenixsecurity23/presentation/carlini)** ![Usenix Security 23](https://img.shields.io/badge/Usenix%20Security%2023-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Diffence: Fencing Membership Privacy With Diffusion Models](https://arxiv.org/abs/2312.04692)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
