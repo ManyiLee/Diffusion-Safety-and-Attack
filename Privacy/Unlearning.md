@@ -1,4 +1,11 @@
 # Unlearning
+- [2025/03]**[Localized Concept Erasure for Text-to-Image Diffusion Models Using Training-Free Gated Low-Rank Adaptation](https://arxiv.org/abs/2503.12356)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Continual Unlearning for Foundational Text-to-Image Models without
+Generalization Erosion](https://arxiv.org/abs/2503.13769)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization
+](https://arxiv.org/abs/2503.15197)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[One-dimensional adapter to rule them all: Concepts diffusion models and erasing applications](https://openaccess.thecvf.com/content/CVPR2024/html/Lyu_One-dimensional_Adapter_to_Rule_Them_All_Concepts_Diffusion_Models_and_CVPR_2024_paper.html)** ![CVPR 24](https://img.shields.io/badge/CVPR%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Erasediff: Erasing data influence in diffusion models](https://arxiv.org/abs/2401.05779)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention](https://link.springer.com/chapter/10.1007/978-3-031-72980-5_20)** ![ECCV 24](https://img.shields.io/badge/ECCV%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models](https://arxiv.org/abs/2410.08074)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/03]**[SA LUN: EMPOWERING MACHINE UNLEARNING VIA GRADIENT-BASED WEIGHT SALIENCY IN BOTH IMAGE CLASSIFICATION AND GENERATION](https://arxiv.org/abs/2310.12508)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet) ![Pretrain weight](https://img.shields.io/badge/Pretrain%20weight-important)
