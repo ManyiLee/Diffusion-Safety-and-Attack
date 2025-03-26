@@ -1,4 +1,7 @@
 # Adversarial examples
+- [2025/03]**[Make the Most of Everything: Further Considerations on Disrupting Diffusion-based Customization
+](https://arxiv.org/abs/2503.13945)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Towards Model Resistant to Transferable Adversarial Examples via Trigger Activation](https://ieeexplore.ieee.org/abstract/document/10934010)** ![TIFS](https://img.shields.io/badge/TIFS-blue)
 - [2025/03]**[UNLEARNABLE EXAMPLES FOR DIFFUSION MODELS: PROTECT DATA FROM UNAUTHORIZED EXPLOITATION](https://arxiv.org/abs/2306.01902)** ![ICLR 24](https://img.shields.io/badge/ICLR%2024-blue)
 - [2025/03]**[Stable Diffusion is Unstable](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b733cdd80ed2ae7e3156d8c33108c5d5-Abstract-Conference.html)** ![NeuraIPS 23](https://img.shields.io/badge/NeuraIPS%2023-blue) ![Code](https://img.shields.io/badge/Code-violet) ![Pretrain weight](https://img.shields.io/badge/Pretrain%20weight-important)
 - [2025/03]**[Revealing Vulnerabilities in Stable Diffusion via Targeted Attacks](https://arxiv.org/abs/2401.08725)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet) ![Pretrain weight](https://img.shields.io/badge/Pretrain%20weight-important)
