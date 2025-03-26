@@ -1,4 +1,6 @@
 # JailBreak
+- [2025/03]**[Jailbreaking Safeguarded Text-to-Image Models via Large Language Models](https://arxiv.org/abs/2503.01839)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[SafeText: Safe Text-to-image Models via Aligning the Text Encoder](https://arxiv.org/abs/2502.20623)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/03]**[SurrogatePrompt: Bypassing the Safety Filter of Text-to-Image Models via Substitution](https://dl.acm.org/doi/abs/10.1145/3658644.3690346)** ![CCS 24](https://img.shields.io/badge/CCS%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[SneakyPrompt: Jailbreaking Text-to-image Generative Models](https://ieeexplore.ieee.org/abstract/document/10646735)** ![SP 24](https://img.shields.io/badge/SP%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[HTS-Attack: Heuristic Token Search for Jailbreaking Text-to-Image Models](https://arxiv.org/abs/2502.13175)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
