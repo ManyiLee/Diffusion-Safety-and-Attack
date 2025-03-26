@@ -1,4 +1,6 @@
 # Membership inference attacks
+- [2025/03]**[Winning the MIDST Challenge: New Membership Inference Attacks on Diffusion Models for Tabular Data Synthesis](https://arxiv.org/abs/2503.12008)** ![SaTML 2025](https://img.shields.io/badge/SaTML%202025-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Stand-in Model Protection: Synthetic defense for membership inference and model inversion attacks](https://www.sciencedirect.com/science/article/pii/S0950705125003867)** ![KES 2025](https://img.shields.io/badge/KES%202025-blue) 
 - [2025/03]**[Black-box Membership Inference Attacks against Fine-tuned Diffusion Models](https://arxiv.org/abs/2312.08207)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[Class Attribute Inference Attacks: Inferring Sensitive Class Information by Diffusion-Based Attribute Manipulations](https://arxiv.org/abs/2303.09289)**  ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/03]**[An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization](https://arxiv.org/abs/2305.18355)** ![ICLR 24](https://img.shields.io/badge/ICLR%2024-blue) ![Code](https://img.shields.io/badge/Code-violet) ![Pretrain weight](https://img.shields.io/badge/Pretrain%20weight-important)
