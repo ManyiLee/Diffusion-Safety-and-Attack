@@ -1,4 +1,9 @@
 # Copyright
+- [2025/03]**[Your Text Encoder Can Be An Object-Level Watermarking Controller
+](https://arxiv.org/abs/2503.11945)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/03]**[Harnessing Frequency Spectrum Insights for Image Copyright Protection Against Diffusion Models](https://arxiv.org/abs/2503.11071)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/03]**[Guardians of Generation: Dynamic Inference-Time Copyright Shielding with Adaptive Guidance for AI Image Generation
+](https://arxiv.org/abs/2503.16171)** ![arXiv](https://img.shields.io/badge/arXiv-blue)  ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[Watermarking Diffusion Model](https://arxiv.org/abs/2305.12502)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/03]**[A Watermark-Conditioned Diffusion Model for IP Protection](https://link.springer.com/chapter/10.1007/978-3-031-72890-7_7)** ![ECCV 24](https://img.shields.io/badge/ECCV%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[UnMarker: A Universal Attack on Defensive Image Watermarking](https://www.researchgate.net/profile/Andre-Kassis/publication/387126583_UnMarker_A_Universal_Attack_on_Defensive_Image_Watermarking/links/67613ac5e9b25e24af5c872b/UnMarker-A-Universal-Attack-on-Defensive-Image-Watermarking.pdf)** ![ResearchGate](https://img.shields.io/badge/ResearchGate-blue) ![Code](https://img.shields.io/badge/Code-violet)
