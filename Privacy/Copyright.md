@@ -1,5 +1,5 @@
 # Copyright
-- [2025/03]**[SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation](https://ieeexplore.ieee.org/abstract/document/10943240)** ![TIFS](https://img.shields.io/badge/TIFS-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation](https://ieeexplore.ieee.org/abstract/document/10943240)** ![TIFS](https://img.shields.io/badge/TIFS-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[Your Text Encoder Can Be An Object-Level Watermarking Controller
 ](https://arxiv.org/abs/2503.11945)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/03]**[Harnessing Frequency Spectrum Insights for Image Copyright Protection Against Diffusion Models](https://arxiv.org/abs/2503.11071)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
