@@ -1,4 +1,5 @@
 # Deepfake
+- [2025/04]**[OpenSDI: Spotting Diffusion-Generated Images in the Open World](https://arxiv.org/abs/2503.19653)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[DDL: Effective and Comprehensible Interpretation Framework for Diverse Deepfake Detectors
 ](https://ieeexplore.ieee.org/abstract/document/10937201)** ![TIFS](https://img.shields.io/badge/TIFS-blue)
 - [2025/03]**[Leveraging Pixel Difference Feature for Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10937061)** ![TETCI](https://img.shields.io/badge/TETCI-blue)
