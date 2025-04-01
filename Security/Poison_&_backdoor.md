@@ -1,4 +1,5 @@
 # Posion & backdoor
+- [2025/04]**[Towards Invisible Backdoor Attack on Text-to-Image Diffusion Model](https://arxiv.org/abs/2503.17724)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[Watch the Watcher! Backdoor Attacks on Security-Enhancing Diffusion Models](https://arxiv.org/abs/2406.09669)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/03]**[Understanding Implosion in Text-to-Image Generative Models](https://dl.acm.org/doi/abs/10.1145/3658644.3690205)** ![CCS 24](https://img.shields.io/badge/CCS%2024-blue)
 - [2025/03]**[UIBDiffusion: Universal Imperceptible Backdoor Attack for Diffusion Models](https://arxiv.org/abs/2412.11441)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
