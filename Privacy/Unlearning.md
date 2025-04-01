@@ -1,4 +1,5 @@
 # Unlearning
+- [2025/04]**[Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models](https://arxiv.org/abs/2503.19783)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[Localized Concept Erasure for Text-to-Image Diffusion Models Using Training-Free Gated Low-Rank Adaptation](https://arxiv.org/abs/2503.12356)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[Continual Unlearning for Foundational Text-to-Image Models without
 Generalization Erosion](https://arxiv.org/abs/2503.13769)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
