@@ -1,4 +1,16 @@
 # Adversarial examples
+- [2025/04]**[Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f6b35e248a21c71ff1cd47b8919fca83-Abstract-Conference.html)** ![NeurlPS 24](https://img.shields.io/badge/NeuraIPS%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[AdvAD: Exploring Non-Parametric Diffusion for Imperceptible Adversarial Attacks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5de11e930c1bbfda5d4fc9d2b0924032-Abstract-Conference.html)** ![NeurlPS 24](https://img.shields.io/badge/NeuraIPS%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[DiffHammer: Rethinking the Robustness of Diffusion-Based Adversarial Purification](https://openreview.net/forum?id=ZJ2ONmSgCS)** ![NeurlPS 24](https://img.shields.io/badge/NeuraIPS%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial Defense](https://arxiv.org/abs/2410.23091)** ![NeurlPS 24](https://img.shields.io/badge/NeuraIPS%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[Diffusion Policy Attacker: Crafting Adversarial Attacks for Diffusion-based Policies](https://arxiv.org/abs/2405.19424)**  ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[IMPROVED DIFFUSION-BASED GENERATIVE MODEL WITH BETTER ADVERSARIAL ROBUSTNESS](https://arxiv.org/abs/2502.17099)** ![ICLR 25](https://img.shields.io/badge/ICLR%2025-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[ADBM: ADVERSARIAL DIFFUSION BRIDGE MODEL FOR RELIABLE ADVERSARIAL PURIFICATION](https://arxiv.org/abs/2408.00315)** [ICLR 25](https://img.shields.io/badge/ICLR%2025-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[ReToMe-VA: Recursive Token Merging for Video Diffusion-based Unrestricted Adversarial Attack](https://dl.acm.org/doi/abs/10.1145/3664647.3680959)** ![MM 24](https://img.shields.io/badge/MM%2024-blue)
+- [2025/04]**[Diffusion Models for Adversarial Purification](https://arxiv.org/abs/2205.07460)**  ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[DiffAttack: Diffusion-based Timbre-reserved Adversarial Attack in Speaker Identification](https://arxiv.org/abs/2501.05127)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[Toward Transferable Attack via Adversarial Diffusion in Face Recognition](https://ieeexplore.ieee.org/abstract/document/10531291)** ![TIFS](https://img.shields.io/badge/TIFS-blue)
+- [2025/04]**[DifFilter: Defending Against Adversarial Perturbations With Diffusion Filter](https://ieeexplore.ieee.org/abstract/document/10584510)** ![TIFS](https://img.shields.io/badge/TIFS-blue)
 - [2025/03]**[Make the Most of Everything: Further Considerations on Disrupting Diffusion-based Customization
 ](https://arxiv.org/abs/2503.13945)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/03]**[Towards Model Resistant to Transferable Adversarial Examples via Trigger Activation](https://ieeexplore.ieee.org/abstract/document/10934010)** ![TIFS](https://img.shields.io/badge/TIFS-blue)
