@@ -1,4 +1,8 @@
 # Membership inference attacks
+- [2025/04]**[Towards More Realistic Membership Inference Attacks on Large Diffusion Models](https://openaccess.thecvf.com/content/WACV2024/html/Dubinski_Towards_More_Realistic_Membership_Inference_Attacks_on_Large_Diffusion_Models_WACV_2024_paper.html)** ![WACV 24](https://img.shields.io/badge/WACV%2024-blue)
+- [2025/04]**[Unveiling Structural Memorization: Structural Membership Inference Attack for Text-to-Image Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3664647.3681170)** ![MM 24](https://img.shields.io/badge/MM%2024-blue)
+- [2025/04]**[Membership Inference Attacks on Diffusion Models via Quantile Regression](https://arxiv.org/abs/2312.05140)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[Are Diffusion Models Vulnerable to Membership Inference Attacks?](https://proceedings.mlr.press/v202/duan23b.html)** ![ICML 23](https://img.shields.io/badge/ICML%2023-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[Winning the MIDST Challenge: New Membership Inference Attacks on Diffusion Models for Tabular Data Synthesis](https://arxiv.org/abs/2503.12008)** ![SaTML 2025](https://img.shields.io/badge/SaTML%202025-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[Stand-in Model Protection: Synthetic defense for membership inference and model inversion attacks](https://www.sciencedirect.com/science/article/pii/S0950705125003867)** ![KES 2025](https://img.shields.io/badge/KES%202025-blue) 
 - [2025/03]**[Black-box Membership Inference Attacks against Fine-tuned Diffusion Models](https://arxiv.org/abs/2312.08207)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
