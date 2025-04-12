@@ -1,4 +1,5 @@
 # Unlearning
+- [2025/04]**[Prompting Forgetting: Unlearning in GANs via Textual Guidance](https://arxiv.org/abs/2504.01218)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Concept Replacer: Replacing Sensitive Concepts in Diffusion Models via Precision Localization](https://arxiv.org/abs/2412.01244)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[STEREO: A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models](https://arxiv.org/abs/2408.16807)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Six-CD: Benchmarking Concept Removals for Text-to-image Diffusion Models](https://arxiv.org/abs/2406.14855)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
