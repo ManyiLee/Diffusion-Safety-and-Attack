@@ -1,4 +1,7 @@
 # Copyright
+- [2025/04]**[RoSMM: A Robust and Secure Multi-Modal Watermarking Framework for Diffusion Models](https://arxiv.org/abs/2504.02640)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[TraceMark-LDM: Authenticatable Watermarking for Latent Diffusion Models via Binary-Guided Rearrangement](https://arxiv.org/abs/2503.23332)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models](https://arxiv.org/abs/2503.22330)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet) 
 - [2025/04]**[SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models](https://arxiv.org/abs/2412.04852)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Cgi-dm: Digital copyright authentication for diffusion models via contrasting gradient inversion](https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000k812/20hMl4dBTEc)** ![CVPR 24](https://img.shields.io/badge/CVPR%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Watermark-embedded_Adversarial_Examples_for_Copyright_Protection_against_Diffusion_Models_CVPR_2024_paper.html)** ![CVPR 24](https://img.shields.io/badge/CVPR%2024-blue)
