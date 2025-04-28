@@ -1,4 +1,10 @@
 # Copyright
+- [2025/04]**[VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models](https://arxiv.org/abs/2504.16359)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale](https://arxiv.org/abs/2504.14815)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models](https://arxiv.org/abs/2504.15026)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[Privacy Protection Against Personalized Text-to-Image Synthesis via Cross-image Consistency Constraints](https://arxiv.org/abs/2504.12747)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[PCDiff: Proactive Control for Ownership Protection in Diffusion Models with Watermark Compatibility](https://arxiv.org/abs/2504.11774)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[MYOPIA: Protecting Face Privacy from Malicious Personalized Text-to-Image Synthesis via Unlearnable Examples](https://ojs.aaai.org/index.php/AAAI/article/view/32075)** ![AAAI25](https://img.shields.io/badge/AAAI25-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[RoSMM: A Robust and Secure Multi-Modal Watermarking Framework for Diffusion Models](https://arxiv.org/abs/2504.02640)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[TraceMark-LDM: Authenticatable Watermarking for Latent Diffusion Models via Binary-Guided Rearrangement](https://arxiv.org/abs/2503.23332)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Imperceptible but Forgeable: Practical Invisible Watermark Forgery via Diffusion Models](https://arxiv.org/abs/2503.22330)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet) 
