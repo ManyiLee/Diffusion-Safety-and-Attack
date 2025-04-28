@@ -1,4 +1,7 @@
 # Posion & backdoor
+- [2025/04]**[BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation](https://arxiv.org/abs/2504.16907)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[REDEditing: Relationship-Driven Precise Backdoor Poisoning on Text-to-Image Diffusion Models](https://arxiv.org/abs/2504.14554)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[UFID: A Unifed Framework for Black-box Input-level Backdoor Detection on Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/34941)** ![AAAI25](https://img.shields.io/badge/AAAI25-blue)
 - [2025/04]**[PARASITE: A STEGANOGRAPHY-BASED BACKDOOR ATTACK FRAMEWORK FOR DIFFUSION MODELS](https://arxiv.org/abs/2504.05815)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[How to Backdoor Diffusion Models?](https://openaccess.thecvf.com/content/CVPR2023/html/Chou_How_to_Backdoor_Diffusion_Models_CVPR_2023_paper.html)** ![CVPR 23](https://img.shields.io/badge/CVPR%2023-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_7)** ![ECCV 24](https://img.shields.io/badge/ECCV%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
