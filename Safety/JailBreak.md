@@ -1,4 +1,7 @@
 # JailBreak
+- [2025/04]**[T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models](https://arxiv.org/abs/2504.15512)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset](https://arxiv.org/abs/2504.11707)** ![arXiv](https://img.shields.io/badge/arXiv-blue)  ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models](https://arxiv.org/abs/2504.11106)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking](https://arxiv.org/abs/2504.05838)** ![arXiv](https://img.shields.io/badge/arXiv-blue)  ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Intriguing Properties of Diffusion Models: An Empirical Study of the Natural Attack Capability in Text-to-Image Generative Models](https://openaccess.thecvf.com/content/CVPR2024/html/Sato_Intriguing_Properties_of_Diffusion_Models_An_Empirical_Study_of_the_CVPR_2024_paper.html)** ![CVPR 24](https://img.shields.io/badge/CVPR%2024-blue)
 - [2025/04]**[DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks](https://link.springer.com/chapter/10.1007/978-3-031-72943-0_8)** ![ECCV 24](https://img.shields.io/badge/ECCV%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
