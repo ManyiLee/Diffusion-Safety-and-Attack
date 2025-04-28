@@ -1,4 +1,5 @@
 # Privacy preserving computation
+- [2025/04]**[Privacy-Diffusion: Privacy-Preserving Stable Diffusion without FHE and Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10971394)** ![IEEE Access](https://img.shields.io/badge/IEEE%20Access-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[On the Importance of Conditioning for Privacy-Preserving Data Augmentation](https://arxiv.org/abs/2504.05849)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Towards Privacy-Preserving Split Learning for ControlNet](https://ieeexplore.ieee.org/abstract/document/10943757)** ![WACV 25](https://img.shields.io/badge/WACV%2025-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[SimAC: A Simple Anti-Customization Method for Protecting Face Privacy against Text-to-Image Synthesis of Diffusion Models](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_SimAC_A_Simple_Anti-Customization_Method_for_Protecting_Face_Privacy_against_CVPR_2024_paper.html)** ![CVPR 24](https://img.shields.io/badge/CVPR%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
