@@ -1,4 +1,6 @@
 # Unlearning
+- [2025/04]**[ACE: Attentional Concept Erasure in Diffusion Models](https://arxiv.org/abs/2504.11850)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[Sculpting Memory: Multi-Concept Forgetting in Diffusion Models via Dynamic Mask and Concept-Aware Optimization](https://arxiv.org/abs/2504.09039)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Prompting Forgetting: Unlearning in GANs via Textual Guidance](https://arxiv.org/abs/2504.01218)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Concept Replacer: Replacing Sensitive Concepts in Diffusion Models via Precision Localization](https://arxiv.org/abs/2412.01244)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[STEREO: A Two-Stage Framework for Adversarially Robust Concept Erasing from Text-to-Image Diffusion Models](https://arxiv.org/abs/2408.16807)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
