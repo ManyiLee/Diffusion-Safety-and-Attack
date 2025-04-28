@@ -1,4 +1,5 @@
 # General
+- [2025/04]**[Anti-Diffusion: Preventing Abuse of Modifcations of Diffusion-Based Models](https://ojs.aaai.org/index.php/AAAI/article/view/33149)** ![AAAI25](https://img.shields.io/badge/AAAI25-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion](https://link.springer.com/chapter/10.1007/978-3-031-72855-6_8)** ![ECCV 24](https://img.shields.io/badge/ECCV%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Towards Safe Concept Transfer of Multi-Modal Diffusion via Causal Representation Editing](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1741917e3df34daa1a4c564e2980bb59-Abstract-Conference.html)** ![NeurlPS 24](https://img.shields.io/badge/NeuraIPS%2024-blue)
 - [2025/04]**[TARGETED ATTACK IMPROVES PROTECTION AGAINST UNAUTHORIZED DIFFUSION CUSTOMIZATION](https://arxiv.org/abs/2310.04687)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
