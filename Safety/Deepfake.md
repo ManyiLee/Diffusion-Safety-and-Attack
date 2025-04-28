@@ -1,4 +1,9 @@
 # Deepfake
+- [2025/04]**[Towards Explainable Fake Image Detection with Multi-Modal Large Language Models](https://arxiv.org/abs/2504.14245)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[MLEP: Multi-granularity Local Entropy Patterns for Generalized AI-generated Image Detection](https://arxiv.org/abs/2504.13726)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[Can GPT tell us why these images are synthesized? Empowering Multimodal Large Language Models for Forensics](https://arxiv.org/abs/2504.11686)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/04]**[AnimeDL-2M: Million-Scale AI-Generated Anime Image Detection and Localization in Diffusion Era](https://arxiv.org/abs/2504.11015)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/04]**[Identity-Aware Vision-Language Model for Explainable Face Forgery Detection](https://arxiv.org/abs/2504.09439)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Robust AI-Synthesized Image Detection via Multi-feature Frequency-aware Learning](https://arxiv.org/abs/2504.02879)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Reducing the Content Bias for AI-generated Image Detection](https://ieeexplore.ieee.org/abstract/document/10943622)** ![WACV 25](https://img.shields.io/badge/WACV%2025-blue) 
 - [2025/04]**[LaRE2: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Luo_LaRE2_Latent_Reconstruction_Error_Based_Method_for_Diffusion-Generated_Image_Detection_CVPR_2024_paper.html)** ![CVPR 24](https://img.shields.io/badge/CVPR%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
