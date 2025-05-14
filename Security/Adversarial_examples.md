@@ -1,4 +1,8 @@
 # Adversarial examples
+- [2025/05]**[AT-diff: An adversarial diffusion model for unrestricted adversarial examples
+generation](https://www.sciencedirect.com/science/article/pii/S0950705125006914)** ![KBS](https://img.shields.io/badge/KBS-blue)
+- [2025/05]**[Diffusion-based Adversarial Identity Manipulation for Facial
+Privacy Protection](https://arxiv.org/abs/2504.21646)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[SemDiff: Generating Natural Unrestricted Adversarial Examples via Semantic Attributes Optimization in Diffusion Models](https://arxiv.org/abs/2504.11923)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Defending Against Frequency-Based Attacks with Diffusion Models](https://arxiv.org/abs/2504.11034)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Embedding Hidden Adversarial Capabilities in Pre-Trained Diffusion Models](https://arxiv.org/abs/2504.08782)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
