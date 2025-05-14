@@ -1,4 +1,7 @@
 # JailBreak
+- [2025/05]**[Exposing the Guardrails: Reverse-Engineering and Jailbreaking Safety Filters in DALL·E Text-to-Image Pipelines](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-746-villa.pdf)** ![Usenix Security 25](https://img.shields.io/badge/Usenix%20Security%2025-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/05]**[On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-590-wu-yixin-generation.pdf)** ![Usenix Security 25](https://img.shields.io/badge/Usenix%20Security%2025-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/05]**[The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning](https://arxiv.org/abs/2504.21307)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models](https://arxiv.org/abs/2504.15512)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Towards Safe Synthetic Image Generation On the Web: A Multimodal Robust NSFW Defense and Million Scale Dataset](https://arxiv.org/abs/2504.11707)** ![arXiv](https://img.shields.io/badge/arXiv-blue)  ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models](https://arxiv.org/abs/2504.11106)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
