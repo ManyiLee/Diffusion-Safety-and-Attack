@@ -1,4 +1,9 @@
 # Posion & backdoor
+- [2025/05]**[Watch the Watchers! On the Security Risks of Robustness-Enhancing
+Diffusion Models](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-938-li-changjiang.pdf)** ![Usenix Security 25](https://img.shields.io/badge/Usenix%20Security%2025-blue)
+- [2025/05]**[Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://arxiv.org/abs/2504.21072)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/05]**[Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models](https://arxiv.org/abs/2504.20518)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/05]**[Backdoor Defense in Diffusion Models via Spatial Attention Unlearning](https://arxiv.org/abs/2504.18563)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation](https://arxiv.org/abs/2504.16907)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[REDEditing: Relationship-Driven Precise Backdoor Poisoning on Text-to-Image Diffusion Models](https://arxiv.org/abs/2504.14554)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[UFID: A Unifed Framework for Black-box Input-level Backdoor Detection on Diffusion Models](https://ojs.aaai.org/index.php/AAAI/article/view/34941)** ![AAAI25](https://img.shields.io/badge/AAAI25-blue)
