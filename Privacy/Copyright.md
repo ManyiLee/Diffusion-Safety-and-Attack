@@ -1,4 +1,8 @@
 # Copyright
+- [2025/05]**[Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models](https://arxiv.org/abs/2505.02824)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/05]**[Improvement of Selecting and Poisoning Data in Copyright Infringement Attack](https://cvpr25-advml.github.io/short_paper/15_Improvement_of_Selecting_a.pdf)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/05]**[LightShed: Defeating Perturbation-based Image Copyright Protections](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1371-foerster.pdf)** ![Usenix Security 25](https://img.shields.io/badge/Usenix%20Security%2025-blue)
+- [2025/05]**[GenPTW: In-Generation Image Watermarking for Provenance Tracing and Tamper Localization](https://arxiv.org/abs/2504.19567)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models](https://arxiv.org/abs/2504.16359)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale](https://arxiv.org/abs/2504.14815)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models](https://arxiv.org/abs/2504.15026)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
