@@ -1,4 +1,5 @@
 # General
+- [2025/05]**[Ensuring privacy in face recognition: a survey on data generation, inference and storage](https://link.springer.com/article/10.1007/s42452-025-06987-2)** ![ Discover Applied Sciences](https://img.shields.io/badge/%20Discover%20Applied%20Sciences-blue)
 - [2025/04]**[Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Can_Protective_Perturbation_Safeguard_Personal_Data_from_Being_Exploited_by_CVPR_2024_paper.html)** ![CVPR 24](https://img.shields.io/badge/CVPR%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_DiffAM_Diffusion-based_Adversarial_Makeup_Transfer_for_Facial_Privacy_Protection_CVPR_2024_paper.html)** ![CVPR 24](https://img.shields.io/badge/CVPR%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/03]**[Visual Privacy Auditing with Diffusion Models](https://arxiv.org/abs/2403.07588)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
