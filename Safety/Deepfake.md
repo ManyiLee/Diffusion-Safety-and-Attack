@@ -1,4 +1,7 @@
 # Deepfake
+- [2025/05]**[Enhanced CNN Architecture with Residual Blocks and Regularization for AI-Generated Image Detection](https://ieeexplore.ieee.org/abstract/document/10985062/)** ![Static Badge](https://img.shields.io/badge/IATMSI-blue)
+- [2025/05]**[Frequency forensics for deep fake face detection using dual residual networks](https://link.springer.com/article/10.1007/s11042-025-20897-w)** ![Static Badge](https://img.shields.io/badge/%20Multimedia%20Tools%20and%20Applications%20-blue)
+- [2025/05]**[Robustness in AI-Generated Detection: Enhancing Resistance to Adversarial Attacks](https://arxiv.org/abs/2505.03435)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Towards Explainable Fake Image Detection with Multi-Modal Large Language Models](https://arxiv.org/abs/2504.14245)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[MLEP: Multi-granularity Local Entropy Patterns for Generalized AI-generated Image Detection](https://arxiv.org/abs/2504.13726)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Can GPT tell us why these images are synthesized? Empowering Multimodal Large Language Models for Forensics](https://arxiv.org/abs/2504.11686)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
