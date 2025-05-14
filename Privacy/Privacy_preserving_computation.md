@@ -1,4 +1,6 @@
 # Privacy preserving computation
+- [2025/05]**[The DCR Delusion: Measuring the Privacy Risk of Synthetic Data](https://arxiv.org/abs/2505.01524)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/05]**[Machine Learning with Privacy for Protected Attributes](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c417/26hiUUSxJNm)** ![SP 25](https://img.shields.io/badge/SP%2025-blue)
 - [2025/04]**[Privacy-Diffusion: Privacy-Preserving Stable Diffusion without FHE and Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10971394)** ![IEEE Access](https://img.shields.io/badge/IEEE%20Access-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[On the Importance of Conditioning for Privacy-Preserving Data Augmentation](https://arxiv.org/abs/2504.05849)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Towards Privacy-Preserving Split Learning for ControlNet](https://ieeexplore.ieee.org/abstract/document/10943757)** ![WACV 25](https://img.shields.io/badge/WACV%2025-blue) ![Code](https://img.shields.io/badge/Code-violet)
