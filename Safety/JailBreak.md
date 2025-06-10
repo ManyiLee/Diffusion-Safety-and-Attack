@@ -1,4 +1,7 @@
 # JailBreak
+- [2025/06]**[GhostPrompt: Jailbreaking Text-to-image Generative Models based on Dynamic Optimization](https://arxiv.org/abs/2505.18979)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/06]**[TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis](https://arxiv.org/abs/2505.08804)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/06]**[Jailbreaking the Text-to-Video Generative Models](https://arxiv.org/abs/2505.06679)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/05]**[Exposing the Guardrails: Reverse-Engineering and Jailbreaking Safety Filters in DALL·E Text-to-Image Pipelines](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-746-villa.pdf)** ![Usenix Security 25](https://img.shields.io/badge/Usenix%20Security%2025-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/05]**[On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-590-wu-yixin-generation.pdf)** ![Usenix Security 25](https://img.shields.io/badge/Usenix%20Security%2025-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/05]**[The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning](https://arxiv.org/abs/2504.21307)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
