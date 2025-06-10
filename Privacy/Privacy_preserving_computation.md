@@ -1,4 +1,5 @@
 # Privacy preserving computation
+- [2025/06]**[Anonymous-Diffusion: Blockchain-Based Privacy-Preserving Stable Diffusion](https://ieeexplore.ieee.org/abstract/document/11012859)** ![Static Badge](https://img.shields.io/badge/ICCT-Pacific-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/05]**[The DCR Delusion: Measuring the Privacy Risk of Synthetic Data](https://arxiv.org/abs/2505.01524)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/05]**[Machine Learning with Privacy for Protected Attributes](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c417/26hiUUSxJNm)** ![SP 25](https://img.shields.io/badge/SP%2025-blue)
 - [2025/04]**[Privacy-Diffusion: Privacy-Preserving Stable Diffusion without FHE and Differential Privacy](https://ieeexplore.ieee.org/abstract/document/10971394)** ![IEEE Access](https://img.shields.io/badge/IEEE%20Access-blue) ![Code](https://img.shields.io/badge/Code-violet)
