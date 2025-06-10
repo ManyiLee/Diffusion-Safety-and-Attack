@@ -1,4 +1,7 @@
 # Adversarial examples
+- [2025/06]**[A universal framework for enhancing imperceptibility in latent difusion‑based adversarial attacks](https://link.springer.com/article/10.1007/s11227-025-07433-1)** ![Static Badge](https://img.shields.io/badge/Supercomputing-blue)
+- [2025/06]**[Towards more transferable adversarial attack in black-box manner](https://arxiv.org/abs/2505.18097)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/06]**[TRAIL: Transferable Robust Adversarial Images via Latent diffusion](https://arxiv.org/abs/2505.16166)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/05]**[AT-diff: An adversarial diffusion model for unrestricted adversarial examples
 generation](https://www.sciencedirect.com/science/article/pii/S0950705125006914)** ![KBS](https://img.shields.io/badge/KBS-blue)
 - [2025/05]**[Diffusion-based Adversarial Identity Manipulation for Facial
