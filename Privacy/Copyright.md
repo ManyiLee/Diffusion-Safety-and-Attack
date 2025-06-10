@@ -1,4 +1,7 @@
 # Copyright
+- [2025/06]**[My Face Is Mine, Not Yours: Facial Protection Against Diffusion Model Face Swapping](https://arxiv.org/abs/2505.15336)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/06]**[IS PERTURBATION-BASED IMAGE PROTECTION DISRUPTIVE TO IMAGE EDITING?](https://arxiv.org/abs/2506.04394)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/06]**[Beyond Invisibility: Learning Robust Visible Watermarks for Stronger Copyright Protection](https://arxiv.org/abs/2506.02665)** ![arXiv](https://img.shields.io/badge/arXiv-blue) 
 - [2025/05]**[Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models](https://arxiv.org/abs/2505.02824)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/05]**[Improvement of Selecting and Poisoning Data in Copyright Infringement Attack](https://cvpr25-advml.github.io/short_paper/15_Improvement_of_Selecting_a.pdf)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/05]**[LightShed: Defeating Perturbation-based Image Copyright Protections](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1371-foerster.pdf)** ![Usenix Security 25](https://img.shields.io/badge/Usenix%20Security%2025-blue)
