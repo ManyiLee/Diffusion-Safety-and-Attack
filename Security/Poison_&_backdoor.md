@@ -1,4 +1,6 @@
 # Posion & backdoor
+- [2025/06]**[MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrodinger Bridges](https://arxiv.org/abs/2505.08809)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/06]**[Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking](https://arxiv.org/abs/2506.04879)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/05]**[Watch the Watchers! On the Security Risks of Robustness-Enhancing
 Diffusion Models](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-938-li-changjiang.pdf)** ![Usenix Security 25](https://img.shields.io/badge/Usenix%20Security%2025-blue)
 - [2025/05]**[Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](https://arxiv.org/abs/2504.21072)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
