@@ -1,4 +1,5 @@
 # Posion & backdoor
+- [2025/06]**[ME: Trigger Element Combination Backdoor Attack on Copyright Infringement](https://arxiv.org/abs/2506.10776)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/06]**[MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrodinger Bridges](https://arxiv.org/abs/2505.08809)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/06]**[Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking](https://arxiv.org/abs/2506.04879)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/05]**[Watch the Watchers! On the Security Risks of Robustness-Enhancing
