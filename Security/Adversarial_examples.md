@@ -1,4 +1,6 @@
 # Adversarial examples
+- [2025/06]**[FastMS‑CDA: speeding up adversarial sample generation with multistage difusion model](https://link.springer.com/article/10.1007/s11227-025-07480-8)** ![Static Badge](https://img.shields.io/badge/Supercomputing-blue)
+- [2025/06]**[EXPLORE THE VULNERABILITY OF BLACK BOX MODELS VIA DIFFUSION MODELS](https://arxiv.org/abs/2506.07590)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/06]**[A universal framework for enhancing imperceptibility in latent difusion‑based adversarial attacks](https://link.springer.com/article/10.1007/s11227-025-07433-1)** ![Static Badge](https://img.shields.io/badge/Supercomputing-blue)
 - [2025/06]**[Towards more transferable adversarial attack in black-box manner](https://arxiv.org/abs/2505.18097)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/06]**[TRAIL: Transferable Robust Adversarial Images via Latent diffusion](https://arxiv.org/abs/2505.16166)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
