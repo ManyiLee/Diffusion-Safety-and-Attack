@@ -1,4 +1,8 @@
 # Fairness
+- [2025/06]**[Ano-Face-Fair: Race-Fair Face Anonymization in Text-to-Image Synthesis using Simple Preference Optimization in Diffusion Model](https://openreview.net/forum?id=Uqd2MaXXm3)** ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/06]**[Adversarial regularized diffusion model for fair recommendations](https://www.sciencedirect.com/science/article/pii/S0893608025005751)** ![Static Badge](https://img.shields.io/badge/Neural%20Networks-blue)
+![Code](https://img.shields.io/badge/Code-violet)
+- [2025/06]**[BIASMAP: Can Cross-Attention Uncover Hidden Social Biases?](https://openreview.net/forum?id=rkp2te25Wf)**
 - [2025/05]**[Investigating Toxicity and Bias in Stable Diffusion TextTo-Image Model](https://www.researchsquare.com/article/rs-5746189/v1)**
 - [2025/04]**[Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability](https://arxiv.org/abs/2503.20483)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Implicit Bias Injection Attacks against Text-to-Image Diffusion Models](https://arxiv.org/abs/2504.01819)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
