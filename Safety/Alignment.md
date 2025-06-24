@@ -1,5 +1,5 @@
 # Alignment
-- [2025/04]**[A Benchmark for Text-to-Image Alignment and Kernelized Direct Preference Optimization](https://arxiv.org/abs/2506.14903)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/06]**[A Benchmark for Text-to-Image Alignment and Kernelized Direct Preference Optimization](https://arxiv.org/abs/2506.14903)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Towards NSFW-Free Text-to-Image Generation via Safety-Constraint Direct Preference Optimization](https://arxiv.org/abs/2504.14290)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment](https://arxiv.org/abs/2503.18454)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/04]**[Diffusion Model Alignment Using Direct Preference Optimization](https://openaccess.thecvf.com/content/CVPR2024/html/Wallace_Diffusion_Model_Alignment_Using_Direct_Preference_Optimization_CVPR_2024_paper.html)** ![CVPR 24](https://img.shields.io/badge/CVPR%2024-blue) ![Code](https://img.shields.io/badge/Code-violet)
