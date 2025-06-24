@@ -1,4 +1,7 @@
 # Deepfake
+- [2025/06]**[Diffusion model in modern detection: Advancing Deepfake techniques](https://www.sciencedirect.com/science/article/pii/S0950705125009670)** ![Static Badge](https://img.shields.io/badge/Knowledge-Based%20Systems-blue)
+- [2025/06]**[LLMs Are Not Yet Ready for Deepfake Image Detection](https://arxiv.org/abs/2506.10474)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
+- [2025/06]**[IDENTITY DEEPFAKE THREATS TO BIOMETRIC AUTHENTICATION SYSTEMS: PUBLIC AND EXPERT PERSPECTIVES](https://arxiv.org/abs/2506.06825)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/06]**[Adversarially Robust AI-Generated Image Detection for Free: An Information Theoretic Perspective](https://arxiv.org/abs/2505.22604)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/06]**[LEDNet: a multimodal foundation model for robust deepfake detection](https://link.springer.com/article/10.1007/s11432-024-4400-8)** ![Static Badge](https://img.shields.io/badge/Science%20China%20Information%20Sciences-blue)
 - [2025/06]**[CAMME: Adaptive Deepfake Image Detection with Multi-Modal Cross-Attention](https://arxiv.org/abs/2505.18035)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
