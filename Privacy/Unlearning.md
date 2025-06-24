@@ -1,4 +1,10 @@
 # Unlearning
+- [2025/06]**[An Empirical Exploration of Continual Unlearning for Image Generation](https://openreview.net/forum?id=2FKAoAmYOj)** ![ICML 25](https://img.shields.io/badge/ICML%2025-blue)
+- [2025/06]**[Unleashing Uncertainty: Efficient Machine Unlearning for Generative AI](https://openreview.net/forum?id=rWc530VQE6)** ![ICML 25](https://img.shields.io/badge/ICML%2025-blue)
+- [2025/06]**[Embarrassingly Efficient Unlearning with SVD](https://openreview.net/forum?id=0Ny8aGDqcf)** ![ICML 25](https://img.shields.io/badge/ICML%2025-blue)
+- [2025/06]**[Automating Evaluation of Diffusion Model Unlearning with (Vision-) Language Model World Knowledge](https://openreview.net/forum?id=oQyjiBpqxx)** ![ICML 25](https://img.shields.io/badge/ICML%2025-blue)
+- [2025/06]**[SAGE: Exploring the Boundaries of Unsafe Concept Domain with Semantic-Augment Erasing](https://arxiv.org/abs/2506.09363)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
+- [2025/06]**[Video Unlearning via Low-Rank Refusal Vector](https://arxiv.org/abs/2506.07891)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/06]**[TRACE: Trajectory-Constrained Concept Erasure in Diffusion Models](https://arxiv.org/abs/2505.23312)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/06]**[Erasing Concepts, Steering Generations: AComprehensive Survey of Concept Suppression](https://arxiv.org/abs/2505.19398)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/06]**[Localizing Knowledge in Diffusion Transformers](https://arxiv.org/abs/2505.18832)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
