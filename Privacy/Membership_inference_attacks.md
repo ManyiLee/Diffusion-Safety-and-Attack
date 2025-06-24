@@ -1,4 +1,5 @@
 # Membership inference attacks
+- [2025/06]**[Frequency-Calibrated Membership Inference Attacks on Medical Image Diffusion Models](https://arxiv.org/abs/2506.14919)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/06]**[Unveiling Impact of Frequency Components on Membership Inference Attacks for Diffusion Models](https://arxiv.org/abs/2505.20955)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/04]**[Towards More Realistic Membership Inference Attacks on Large Diffusion Models](https://openaccess.thecvf.com/content/WACV2024/html/Dubinski_Towards_More_Realistic_Membership_Inference_Attacks_on_Large_Diffusion_Models_WACV_2024_paper.html)** ![WACV 24](https://img.shields.io/badge/WACV%2024-blue)
 - [2025/04]**[Unveiling Structural Memorization: Structural Membership Inference Attack for Text-to-Image Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3664647.3681170)** ![MM 24](https://img.shields.io/badge/MM%2024-blue)
