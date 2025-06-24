@@ -1,4 +1,5 @@
 # Copyright
+- [2025/06]**[GaussMarker: Robust Dual-Domain Watermark for Diffusion Models](https://arxiv.org/abs/2506.11444)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/06]**[My Face Is Mine, Not Yours: Facial Protection Against Diffusion Model Face Swapping](https://arxiv.org/abs/2505.15336)** ![arXiv](https://img.shields.io/badge/arXiv-blue)
 - [2025/06]**[IS PERTURBATION-BASED IMAGE PROTECTION DISRUPTIVE TO IMAGE EDITING?](https://arxiv.org/abs/2506.04394)** ![arXiv](https://img.shields.io/badge/arXiv-blue) ![Code](https://img.shields.io/badge/Code-violet)
 - [2025/06]**[Beyond Invisibility: Learning Robust Visible Watermarks for Stronger Copyright Protection](https://arxiv.org/abs/2506.02665)** ![arXiv](https://img.shields.io/badge/arXiv-blue) 
